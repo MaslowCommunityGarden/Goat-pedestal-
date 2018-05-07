@@ -14,3 +14,7 @@ A quick video about making the goat stand can be seen [here](https://www.youtube
 The download includes common 3D CAD models for the stand, a DXF of the parts ready to cut, and the original OnShape file is available [here](https://cad.onshape.com/documents/5338ed49b7253b03f40371e1/w/f915de939433c26bbe0f3e10/e/a97841d4c29578a0cdced65d)
 
 ![a front view of maslow cnc goat stand](https://raw.githubusercontent.com/MaslowCommunityGarden/Goat-pedestal-/master/From%20the%20front.jpg)
+
+![goat on top from front](https://raw.githubusercontent.com/MaslowCommunityGarden/Goat-pedestal-/master/goat1.jpg)
+
+![goat on top from back](https://raw.githubusercontent.com/MaslowCommunityGarden/Goat-pedestal-/master/goat2.jpg)
