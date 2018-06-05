@@ -1,4 +1,5 @@
 {
     "ModerationLevel": "communityManaged",
-    "Facilitator": "barboursmith"
+    "Facilitator": "barboursmith",
+    "Category": "furniture" 
 }
